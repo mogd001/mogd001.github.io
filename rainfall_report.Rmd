@@ -1,7 +1,4 @@
 ---
-title: |
-  ![](img/tdc_logo.png){width="50%"}\
-  Rainfall Report for `r params$site`
 author: "Hydrology Tasman District Council"
 output: 
   html_document:
@@ -30,6 +27,12 @@ measurement <- params$measurement
 
 source("rainfall_report_code.R", local = knitr::knit_global())
 ```
+
+---
+title: |
+  ![](img/tdc_logo.png){width="50%"}\
+  Rainfall Report for `r site_name`
+---
 
 # `r site_name`
 

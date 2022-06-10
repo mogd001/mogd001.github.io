@@ -24,7 +24,7 @@ site_information <- all_sites %>%
   rename_all(tolower)
 
 envmon_site_information <- read_site_information(site)
-site_name <- envmon_site_information$site_name
+site_name <- envmon_site_information$first_synonym
 
 # Load timeseries data
 end_date <- floor_date(now(), "1 hour")
