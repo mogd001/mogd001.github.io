@@ -1,0 +1,14 @@
+name: "tdc-rainfall-website"
+navbar:
+  title: "Martyweb"
+  left:
+    - text: "Rainfall"
+      href: rainfall_report.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<matt.ogden@tasman.govt.nz>
+    - icon: fa-github fa-lg
+      href: http://github.com/mogd001/
+output:
+  html_document:
+    theme: cerulean
