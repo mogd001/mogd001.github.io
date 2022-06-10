@@ -1,5 +1,5 @@
 ---
-title: "This is the beginning of the Martyweb."
+title: "This is the beginning of the Martyweb"
 ---
 
 This is the beginning of the dark dark martyweb.
