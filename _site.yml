@@ -1,4 +1,5 @@
 name: "tdc-rainfall-website"
+output_dir: "."
 navbar:
   title: "Martyweb"
   left:
@@ -6,7 +7,7 @@ navbar:
       href: rainfall_report.html
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:<matt.ogden@tasman.govt.nz>
+      href: mailto:<matt.ogden@tasman.govt.nz>/
     - icon: fa-github fa-lg
       href: http://github.com/mogd001/
 output:
