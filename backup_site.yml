@@ -6,6 +6,9 @@ navbar:
       href: index.html
     - text: "Rainfall"
       href: rainfall_report.html
+  right: 
+    - icon: fa-github fa-lg
+      href: http://github.com/mogd001/
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean

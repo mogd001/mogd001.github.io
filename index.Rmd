@@ -1,9 +1,7 @@
 ---
-title: "This is the beginning of the Martyweb"
+title: |
+   ![](img/tdc_logo.png){width="50%"} \
+   Homepage
 ---
 
-This is the beginning of the dark dark martyweb.
-
-<img src="img/tdc_logo.png" style="width:50%">
-
-<img src="img/martyweb.jpg" style="width:50%">
+Rmarkdown-generated website.
